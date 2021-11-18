@@ -1,4 +1,4 @@
-# Dataset-Limon-Tahiti
+# Dataset Limon Tahiti
 
 En el presente repositorio se encuentra un dataset destinado a la detección de bultos de Limón Tahití, el dataset cuenta con un total de 725 imágenes, distribuidas en 3 carpetas. La primera de ellas es "train" donde se encuentra un 90% de las imágenes, seguidamente la carpeta "valid" con un 5% y, finalmente, "test" con otro 5%. La única clase presente se denominó como: Bulto.
 
